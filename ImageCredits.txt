@@ -1,0 +1,6 @@
+bg-image: https://sms-bridges.com/bonifacio-global-city-redefining-and-inspiring-urban-living/
+article1: https://getaway.ph/blog/regions/ncr/10-tidbits-you-probably-didnt-know-about-the-quezon-memorial-circle/
+article2: https://www.reddit.com/r/Philippines/comments/9u8yro/pasig_city_skyline_overlooking_meralco_avenue/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+article3: https://eva-chronicles.blogspot.com/2014/01/an-afternoon-visit-at-luneta.html
+
+  
